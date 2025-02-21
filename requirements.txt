@@ -1,0 +1,24 @@
+# Common
+pandas
+
+# NLP
+spacy
+scikit-learn
+matplotlib
+seaborn
+
+# Pathfinding
+networkx
+folium
+
+# Whisper
+openai-whisper
+SpeechRecognition
+pyaudio
+setuptools
+
+geopy
+rtree
+shapely
+torch
+
